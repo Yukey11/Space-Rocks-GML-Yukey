@@ -2,7 +2,7 @@
   "bboxMode": 2,
   "collisionKind": 3,
   "type": 0,
-  "origin": 0,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -27,29 +27,37 @@
     {"compositeImage":{"FrameId":{"name":"07f736d0-7a10-4295-9c6a-f5e127097c9a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"07f736d0-7a10-4295-9c6a-f5e127097c9a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"07f736d0-7a10-4295-9c6a-f5e127097c9a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3d0479f7-395b-4ff5-8315-653d762a927a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3d0479f7-395b-4ff5-8315-653d762a927a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"3d0479f7-395b-4ff5-8315-653d762a927a","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"8fdf4b41-ccab-4303-ac8f-d1f24938ea20","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8fdf4b41-ccab-4303-ac8f-d1f24938ea20","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"8fdf4b41-ccab-4303-ac8f-d1f24938ea20","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bc840e8a-970e-40b6-b53a-2e8c2d42db06","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bc840e8a-970e-40b6-b53a-2e8c2d42db06","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"bc840e8a-970e-40b6-b53a-2e8c2d42db06","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"132ad993-b274-4fd3-8c78-608f053fe753","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"132ad993-b274-4fd3-8c78-608f053fe753","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"132ad993-b274-4fd3-8c78-608f053fe753","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fd2a8ca2-464e-4cb9-b86d-164843e66cc5","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fd2a8ca2-464e-4cb9-b86d-164843e66cc5","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"fd2a8ca2-464e-4cb9-b86d-164843e66cc5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e36f78e6-4172-4eca-97ef-0620c5d6eca1","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e36f78e6-4172-4eca-97ef-0620c5d6eca1","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"LayerId":{"name":"f2abbbd1-0df9-474a-9747-1a08f018adb6","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","name":"e36f78e6-4172-4eca-97ef-0620c5d6eca1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 3.0,
+    "playbackSpeed": 10.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 3.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"092fb298-9fe4-48b5-a68a-7840f67895d4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07f736d0-7a10-4295-9c6a-f5e127097c9a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"ee877d7f-78a8-400f-a7ad-0d80423d5dae","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3d0479f7-395b-4ff5-8315-653d762a927a","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"2ebcafc7-d4b3-43ae-b299-835ac9ff0e48","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8fdf4b41-ccab-4303-ac8f-d1f24938ea20","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6f478b31-ef06-4eaf-8fae-e707bde8dec8","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bc840e8a-970e-40b6-b53a-2e8c2d42db06","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"85d2fadd-f60c-4ab8-9ef4-d2a6dcd97f19","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"132ad993-b274-4fd3-8c78-608f053fe753","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e5c48c56-7dd5-405c-8212-7206133d0b2d","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd2a8ca2-464e-4cb9-b86d-164843e66cc5","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5479ac56-e6c2-4e5f-bf13-712bdcd8c989","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e36f78e6-4172-4eca-97ef-0620c5d6eca1","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -62,8 +70,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 16,
+    "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},
