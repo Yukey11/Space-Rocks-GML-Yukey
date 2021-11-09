@@ -2,7 +2,7 @@
   "resources": [
     {"id":{"name":"Spr_Spaceship","path":"sprites/Spr_Spaceship/Spr_Spaceship.yy",},"order":0,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
-    {"id":{"name":"Obj_Debris","path":"objects/Obj_Debris/Obj_Debris.yy",},"order":3,},
+    {"id":{"name":"Obj_debris","path":"objects/Obj_debris/Obj_debris.yy",},"order":3,},
     {"id":{"name":"Spr_Asteroid_Small","path":"sprites/Spr_Asteroid_Small/Spr_Asteroid_Small.yy",},"order":1,},
     {"id":{"name":"Spr_Asteroid_Large","path":"sprites/Spr_Asteroid_Large/Spr_Asteroid_Large.yy",},"order":3,},
     {"id":{"name":"Spr_Asteroid_Med","path":"sprites/Spr_Asteroid_Med/Spr_Asteroid_Med.yy",},"order":2,},
